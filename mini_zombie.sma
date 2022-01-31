@@ -9,7 +9,7 @@
 
 #define PLUGIN "Zombie - Mystic Death"
 #define VERSION "1.0"
-#define AUTHOR "Internet"
+#define AUTHOR "Axel Mendoza"
 
 /* Enums */
 
