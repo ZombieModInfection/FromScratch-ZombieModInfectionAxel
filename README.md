@@ -1,6 +1,8 @@
 # FromScratch-ZombieModInfectionAxel
 Mystic Death's Zombie Mod Infection remake from scratch by Axel Mendoza#8086 
 
-mini_zombie.sma - Zombie Mod Infection code
+zombie_mod_infection.sma - Zombie Mod Infection code
+
+zmod_exec.cfg - Zombie Mod Infection Config
 
 Mod_Infection.rar - Resources needed to run the mod
